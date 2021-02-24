@@ -13,13 +13,13 @@ https://www.linkedin.com/in/fanny-ibanez/
 ![Fanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=fannyibz&theme=algolia&show_icons=true)
 
 <a href="https://github.com/fannyibz/pong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=pong" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=pong&theme=algolia&show_icons=true" />
 </a>
 <a href="https://github.com/fannyibz/AIR_SUP_O">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=AIR_SUP_O" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=AIR_SUP_O&theme=algolia&show_icons=true" />
 </a>
 <a href="https://github.com/fannyibz/fanny-ibanez-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=fanny-ibanez-website" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=fanny-ibanez-website&theme=algolia&show_icons=true" />
 </a>
 
 
