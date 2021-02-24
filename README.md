@@ -5,7 +5,7 @@ I'm a fullstack developer, looking for challenges and  .
 👉 I'm currently working @lewagon as a teacher assistant.
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fanny-ibanez/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/fanny-ibanez/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fanny-ibanez/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/fanny-ibanez/" height="40" width="40" /></a>
 </p>
 
 http://www.fanny-ibanez.fr/
