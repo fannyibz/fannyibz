@@ -3,6 +3,8 @@
 <img align="right" src="https://media.giphy.com/media/2xPPojqe3mraUXS6dk/giphy.gif" />
 <strong>I'm a junior fullstack developer and passionate about learning new things especially in programming, environment and social science.😊</strong>
 
+<br>
+<br>
 
 ```
 class Fanny
@@ -35,9 +37,8 @@ const Fanny = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fannyibz&theme=dark&show_icons=true" />
 </a>
 
-<a href="https://github.com/fannyibz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannyibz&layout=compact&theme=dark" />
-</a>
+<br>
+<br>
 
 <h3>💬 Contact me</h3>
 
