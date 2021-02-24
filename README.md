@@ -45,12 +45,12 @@ const Fanny = {
 <br>
 <p align="left">
 <a href="http://www.fanny-ibanez.fr" target="blank"><img align="center">
-   👉 Check at my website
+   👉 Link to my website
 </a>
 </p>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fanny-ibanez/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/fanny-ibanez/" height="15" width="15" /> LinkdIn profile</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fanny-ibanez/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/fanny-ibanez/" height="15" width="15" />       LinkdIn profile</a>
 </p>
 
 
