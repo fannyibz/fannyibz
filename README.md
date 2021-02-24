@@ -25,7 +25,6 @@ https://www.linkedin.com/in/fanny-ibanez/
 <a href="https://github.com/fannyibz/AIR_SUP_O">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=AIR_SUP_O&theme=dark&show_icons=true" />
 </a>
-_____________________________________________________________________________
 <a href="https://github.com/fannyibz/fanny-ibanez-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=fanny-ibanez-website&theme=dark&show_icons=true" />
 </a>
