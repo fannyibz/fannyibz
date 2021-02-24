@@ -1,7 +1,7 @@
 <h1>Hi there 👋 I'm Fanny</h1>
 
 <img align="right" src="https://media.giphy.com/media/2xPPojqe3mraUXS6dk/giphy.gif" />
-<strong>I'm a junior fullstack developer and passionate about learning new things especially in programming, environment and social science.😊</strong>
+<strong>I'm a junior fullstack developer and passionate about learning new things especially in programming, environment and social science.😊 </strong>
 
 <br>
 <br>
@@ -31,7 +31,7 @@ const Fanny = {
 }
 ```
 
-<h3>🤓 GitHub Stats</h3>
+<h3>👩‍💻 GitHub Stats</h3>
 
 <a href="https://github.com/fannyibz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fannyibz&theme=dark&show_icons=true" />
@@ -39,8 +39,6 @@ const Fanny = {
 
 <br>
 <br>
-
-<h3>💬 Contact me</h3>
 
 <br>
 <p align="left">
@@ -57,7 +55,7 @@ const Fanny = {
 <br>
 <br>
 
-⭐️<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>⭐️
+⭐️ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> ⭐️
 <!--
 **fannyibz/fannyibz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
