@@ -7,6 +7,7 @@ http://www.fanny-ibanez.fr/
 
 https://www.linkedin.com/in/fanny-ibanez/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fannyibz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 👉 I'm currently working @lewagon as a teacher assistant.
