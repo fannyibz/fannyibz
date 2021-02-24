@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Fanny
+<h1>Hi there 👋 I'm Fanny</h1>
 
-I'm a junior fullstack developer and passionate about learning new things especially in programming, environment and social science.
+<img align="right" src="https://media.giphy.com/media/2xPPojqe3mraUXS6dk/giphy.gif" />
+<strong>I'm a junior fullstack developer and passionate about learning new things especially in programming, environment and social science.😊</strong>
 
 
 ```
@@ -58,5 +59,6 @@ const Fanny = {
 ⭐️<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>⭐️
 <!--
 **fannyibz/fannyibz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
