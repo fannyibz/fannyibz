@@ -1,29 +1,33 @@
 ### Hi there 👋 I'm Fanny
 
-I'm a fullstack developer, looking for challenges and  .
+I'm a junior fullstack developer. I'm passionate about learning new things especially in programming.
 
-👉 I'm currently working @lewagon as a teacher assistant.
+
+💻 All of my projects are available at [http://www.fanny-ibanez.fr/](http://www.fanny-ibanez.fr/)
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fanny-ibanez/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/fanny-ibanez/" height="40" width="40" /></a>
 </p>
 
-http://www.fanny-ibanez.fr/
 
-https://www.linkedin.com/in/fanny-ibanez/
 
 ```javascript
 const Fanny = {
   technologies {
-      code: [Ruby, Javascript, HTML, CSS],
-      Framework: [Ruby on Rails],
-      Tools:[Bootstrap]
-      database: ["postgreSQL","SQL"],
+      Programming Languages: [Ruby, Javascript],
+      Frontend: [CSS, Bootstrap]
+      Framework: "Rails",
+      Software: "Figma"
+      Tools: Bootstrap,]
+      database: "postgreSQL",
       architecture: Model-View Controller,
       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ currentOccupation: ["teacher assistant at Le Wagon, open for job opportunities"],
+ challenge: ""
 }
 ```
+
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/fannyibz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fannyibz&theme=dark&show_icons=true" />
@@ -33,19 +37,9 @@ const Fanny = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannyibz&layout=compact&theme=dark" />
 </a>
 
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-## My repositories
-
-<a href="https://github.com/fannyibz/pong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=pong&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/fannyibz/AIR_SUP_O">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=AIR_SUP_O&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/fannyibz/fanny-ibanez-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=fanny-ibanez-website&theme=dark&show_icons=true" />
-</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
