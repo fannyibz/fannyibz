@@ -8,9 +8,14 @@ http://www.fanny-ibanez.fr/
 
 https://www.linkedin.com/in/fanny-ibanez/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fannyibz&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-![Fanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=fannyibz&theme=blueberry&show_icons=true)
+<a href="https://github.com/fannyibz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannyibz&layout=compact&theme=blueberry)" />
+</a>
+
+<a href="https://github.com/fannyibz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fannyibz&theme=blueberry&show_icons=true" />
+</a>
 
 <a href="https://github.com/fannyibz/pong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=pong&theme=blueberry&show_icons=true" />
