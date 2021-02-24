@@ -10,24 +10,24 @@ https://www.linkedin.com/in/fanny-ibanez/
 
 
 <a href="https://github.com/fannyibz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannyibz&layout=compact&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannyibz&layout=compact&theme=dark" />
 </a>
 
 <a href="https://github.com/fannyibz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fannyibz&theme=blueberry&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fannyibz&theme=dark&show_icons=true" />
 </a>
 
 ## My repositories
 
 <a href="https://github.com/fannyibz/pong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=pong&theme=blueberry&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=pong&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/fannyibz/AIR_SUP_O">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=AIR_SUP_O&theme=blueberry&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=AIR_SUP_O&theme=dark&show_icons=true" />
 </a>
-<br>
+_____________________________________________________________________________
 <a href="https://github.com/fannyibz/fanny-ibanez-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=fanny-ibanez-website&theme=blueberry&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fannyibz&repo=fanny-ibanez-website&theme=dark&show_icons=true" />
 </a>
 
 
