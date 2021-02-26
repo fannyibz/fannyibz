@@ -43,7 +43,7 @@ const Fanny = {
 <br>
 <p align="left">
 <a href="http://www.fanny-ibanez.fr" target="blank"><img align="center">
-   👉 Link to my website
+   👉 My website
 </a>
 </p>
 
