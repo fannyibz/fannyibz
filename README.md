@@ -30,7 +30,7 @@ const Fanny = {
  currentOccupation: ["teacher assistant at Le Wagon, open for job opportunities"],
 }
 ```
-
+<br>
 <h3>👩‍💻 GitHub Stats</h3>
 
 <a href="https://github.com/fannyibz">
