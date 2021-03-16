@@ -55,7 +55,7 @@ const Fanny = {
 <br>
 <br>
 
-⭐️ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> ⭐️
+🌟 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 🌟
 <!--
 **fannyibz/fannyibz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
