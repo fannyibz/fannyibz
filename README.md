@@ -25,7 +25,7 @@ const Fanny = {
       Framework: "Rails",
       Software: "Figma"
       database: "postgreSQL",
-      architecture: "Model-View Controller",
+      architecture: "Model View Controller",
       },
  currentOccupation: ["teacher assistant at Le Wagon, open for job opportunities"],
 }
