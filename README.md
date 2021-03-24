@@ -4,8 +4,6 @@
 <strong>I'm a junior fullstack developer, passionate about learning new things especially in programming, environment and social science. 😊 </strong>
 
 <br>
-<br>
-
 ```
 class Fanny
    def initialize
