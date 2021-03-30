@@ -1,7 +1,7 @@
 <h1>Hi there 👋 I'm Fanny</h1>
 
 <img align="right" src="https://media.giphy.com/media/2xPPojqe3mraUXS6dk/giphy.gif" />
-I'm a junior fullstack developer, passionate about learning new things especially in <strong>programming</strong> 👩‍💻, <strong>environment</strong> 🌳 and <strong>social science</strong>. 😊 
+I'm a junior fullstack developer, passionate about learning new things especially in 👩‍💻 <strong>programming</strong> , 🌳 <strong>environment</strong> and <strong>social science</strong>. 😊 
 
 <br>
 <br>
