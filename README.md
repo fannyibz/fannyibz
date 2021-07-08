@@ -32,6 +32,7 @@ const Fanny = {
 }
 ```
 <br>
+<br>
 <h3>👩‍💻 GitHub Stats</h3>
 
 <a href="https://github.com/fannyibz">
@@ -61,6 +62,8 @@ const Fanny = {
 <br>
 
 🌟 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 🌟
+
+
 <!--
 **fannyibz/fannyibz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
