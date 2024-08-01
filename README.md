@@ -33,17 +33,6 @@ const Fanny = {
 ```
 <br>
 <br>
-<h3>👩‍💻 GitHub Stats</h3>
-
-<a href="https://github.com/fannyibz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fannyibz&theme=dark&show_icons=true" />
-</a>
-
-<br>
-<br>
-<br>
-
-<br>
 <p align="left">
 <a href="http://www.fanny-ibanez.fr" target="blank"><img align="center">
    👉 My website
