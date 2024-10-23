@@ -32,12 +32,6 @@ const Fanny = {
 }
 ```
 <br>
-<br>
-<p align="left">
-<a href="http://www.fanny-ibanez.fr" target="blank"><img align="center">
-   👉 My website
-</a>
-</p>
 
 <br>
 
